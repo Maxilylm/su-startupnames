@@ -2,7 +2,7 @@
 
 > Describe a startup idea and get ten name candidates, each with a tagline and a domain suggestion.
 
-**[Live demo](https://su-startupnames.vercel.app)**
+**[Live demo](https://startupnames-mlx.vercel.app)**
 
 Naming a company usually starts as a blank page and ends as a browser full of domain checkers. NameForge takes a plain-English description of what you're building, plus an optional industry and vibe, and asks Groq's Llama 3.3 70B for ten distinct candidates. Each name comes back with a tagline, a suggested domain, and a short explanation of why it fits — so candidates can be judged on stated reasoning rather than gut feel alone.
 
@@ -32,4 +32,4 @@ Set `GROQ_API_KEY` in `.env.local`.
 
 ---
 
-Part of a series of 91 small web apps. [Browse them all](https://su-slopmachine.vercel.app).
+Part of a series of 91 small web apps. [Browse them all](https://lorenzoylosada.vercel.app).

@@ -29,7 +29,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-[#0a0a0a] text-gray-100`}
       >
         {children}
-              <script src="https://su-slopads.vercel.app/api/promo.js" defer></script>
+              <script src="https://slopads-mlx.vercel.app/api/promo.js" defer></script>
       </body>
     </html>
   );
